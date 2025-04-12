@@ -56,7 +56,7 @@
                                 </div>
                             </div>
                             <h2 class="product-title">Wide Cotton Tunic Dress <span class="stock">In Stock</span></h2>
-                            <span class="product-price"><span class="old-price">$9.35</span> $7.25</span>
+                            <span class="product-price"><span class="old-price">Rp9.35</span> $7.25</span>
                             <p>
                                 Priyoshop has brought to you the Hijab 3 Pieces Combo Pack PS23. It is a
                                 completely modern design and you feel comfortable to put on this hijab.
@@ -318,7 +318,7 @@
                                 </div>
                                 <a href="{{ route('productDetails') }}" class="product-name">Girl's Sport Bra</a>
                                 <div class="action-wrap">
-                                    <span class="price">$31.00</span>
+                                    <span class="price">Rp31.00</span>
                                 </div>
                             </div>
                             <div class="quick-action-button">
@@ -357,7 +357,7 @@
                                 </div>
                                 <a href="{{ route('productDetails') }}" class="product-name">Girl's Sport Bra</a>
                                 <div class="action-wrap">
-                                    <span class="price">$31.00</span>
+                                    <span class="price">Rp31.00</span>
                                 </div>
                             </div>
                             <div class="quick-action-button">
@@ -410,7 +410,7 @@
                                 </div>
                                 <a href="{{ route('productDetails') }}" class="product-name">Maidenform Bra</a>
                                 <div class="action-wrap">
-                                    <span class="price">$31.00</span>
+                                    <span class="price">Rp31.00</span>
                                 </div>
                             </div>
                             <div class="quick-action-button">
@@ -449,7 +449,7 @@
                                 </div>
                                 <a href="{{ route('productDetails') }}" class="product-name">Hanes Women's Bra</a>
                                 <div class="action-wrap">
-                                    <span class="price">$31.00</span>
+                                    <span class="price">Rp31.00</span>
                                 </div>
                             </div>
                             <div class="quick-action-button">

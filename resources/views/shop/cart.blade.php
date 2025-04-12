@@ -29,7 +29,7 @@
                                             <h4 class="product-title">Shimmer Sheer Tights</h4>
                                         </div>
                                     </td>
-                                    <td><span class="product-price">$69.00</span></td>
+                                    <td><span class="product-price">Rp69.00</span></td>
                                     <td>
                                         <div class="cart-edit">
                                             <div class="quantity-edit">
@@ -49,7 +49,7 @@
                                             <h4 class="product-title">Shimmer Sheer Tights</h4>
                                         </div>
                                     </td>
-                                    <td><span class="product-price">$69.00</span></td>
+                                    <td><span class="product-price">Rp69.00</span></td>
                                     <td>
                                         <div class="cart-edit">
                                             <div class="quantity-edit">
@@ -69,7 +69,7 @@
                                             <h4 class="product-title">Shimmer Sheer Tights</h4>
                                         </div>
                                     </td>
-                                    <td><span class="product-price">$69.00</span></td>
+                                    <td><span class="product-price">Rp69.00</span></td>
                                     <td>
                                         <div class="cart-edit">
                                             <div class="quantity-edit">
@@ -89,7 +89,7 @@
                                             <h4 class="product-title">Shimmer Sheer Tights</h4>
                                         </div>
                                     </td>
-                                    <td><span class="product-price">$69.00</span></td>
+                                    <td><span class="product-price">Rp69.00</span></td>
                                     <td>
                                         <div class="cart-edit">
                                             <div class="quantity-edit">
@@ -117,7 +117,7 @@
                         <div class="checkout-box-inner">
                             <div class="subtotal-area">
                                 <span class="title">Subtotal</span>
-                                <span class="subtotal-price">$364.00</span>
+                                <span class="subtotal-price">Rp364.00</span>
                             </div>
                             <div class="shipping-check">
                                 <span class="title">Shipping</span>
@@ -140,7 +140,7 @@
                             </div>
                             <div class="total-area">
                                 <span class="title">Total</span>
-                                <span class="total-price">$364.00</span>
+                                <span class="total-price">Rp364.00</span>
                             </div>
                         </div>
                         <a href="{{ route('checkOut') }}" class="procced-btn">Procced To Checkout</a>

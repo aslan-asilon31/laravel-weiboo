@@ -257,7 +257,7 @@
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">3 ×</span>
-                                <span class="product-price">$198.00</span>
+                                <span class="product-price">Rp198.00</span>
                             </div>
                         </div>
                     </div>
@@ -284,7 +284,7 @@
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">2 ×</span>
-                                <span class="product-price">$88.00</span>
+                                <span class="product-price">Rp88.00</span>
                             </div>
                         </div>
                     </div>
@@ -311,7 +311,7 @@
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">1 ×</span>
-                                <span class="product-price">$289.00</span>
+                                <span class="product-price">Rp289.00</span>
                             </div>
                         </div>
                     </div>
@@ -329,9 +329,9 @@
                 </div>
             </div>
             <div class="cart-bottom-area">
-                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">$199.00</span> MORE
+                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">Rp199.00</span> MORE
                     FOR FREE SHIPPING</span>
-                <span class="total-price">TOTAL: <span class="price">$556</span></span>
+                <span class="total-price">TOTAL: <span class="price">Rp556</span></span>
                 <a href="{{ route('checkOut') }}" class="checkout-btn cart-btn">PROCEED TO CHECKOUT</a>
                 <a href="{{ route('cart') }}" class="view-btn cart-btn">VIEW CART</a>
             </div>
@@ -557,7 +557,7 @@
                                             </div>
                                             <a href="{{ route('productDetails') }}" class="product-name">Apex Men's Shoe</a>
                                             <div class="action-wrap">
-                                                <span class="price">$44.00 - $233.00</span>
+                                                <span class="price">Rp44.00 - $233.00</span>
                                             </div>
                                         </div>
                                     </div>
@@ -674,7 +674,7 @@
                                 </div>
                                 <div class="bottom-content">
                                     <h4 class="product-name">Cartier Aviator Sunglass</h4>
-                                    <p class="price">$35.00</p>
+                                    <p class="price">Rp35.00</p>
                                 </div>
                             </div>
                         </div>
@@ -686,7 +686,7 @@
                                 </div>
                                 <div class="bottom-content">
                                     <h4 class="product-name">Stylish Men's Sunglass</h4>
-                                    <p class="price">$35.00</p>
+                                    <p class="price">Rp35.00</p>
                                 </div>
                             </div>
                         </div>
@@ -698,7 +698,7 @@
                                 </div>
                                 <div class="bottom-content">
                                     <h4 class="product-name">Ray-Ban Sunglass</h4>
-                                    <p class="price">$35.00</p>
+                                    <p class="price">Rp35.00</p>
                                 </div>
                             </div>
                         </div>
@@ -710,7 +710,7 @@
                                 </div>
                                 <div class="bottom-content">
                                     <h4 class="product-name">Black Polycarbonate Sunglass</h4>
-                                    <p class="price">$35.00</p>
+                                    <p class="price">Rp35.00</p>
                                 </div>
                             </div>
                         </div>
@@ -779,7 +779,7 @@
                                                 <span>(10)</span>
                                             </div>
                                             <a href="{{ route('productDetails') }}" class="product-title">Ray-Ban Sunglass</a>
-                                            <p class="product-price">$21.00</p>
+                                            <p class="product-price">Rp21.00</p>
                                         </div>
                                     </div>
                                 </div>
@@ -800,7 +800,7 @@
                                                 <span>(10)</span>
                                             </div>
                                             <a href="{{ route('productDetails') }}" class="product-title">The Fatigue Sunglass</a>
-                                            <p class="product-price">$21.00</p>
+                                            <p class="product-price">Rp21.00</p>
                                         </div>
                                     </div>
                                 </div>
@@ -821,7 +821,7 @@
                                                 <span>(10)</span>
                                             </div>
                                             <a href="{{ route('productDetails') }}" class="product-title"> Aviator Sunglass</a>
-                                            <p class="product-price">$21.00</p>
+                                            <p class="product-price">Rp21.00</p>
                                         </div>
                                     </div>
                                 </div>
@@ -842,7 +842,7 @@
                                                 <span>(10)</span>
                                             </div>
                                             <a href="{{ route('productDetails') }}" class="product-title">Stylish Men's Sunglass</a>
-                                            <p class="product-price">$21.00</p>
+                                            <p class="product-price">Rp21.00</p>
                                         </div>
                                     </div>
                                 </div>
@@ -863,7 +863,7 @@
                                                 <span>(10)</span>
                                             </div>
                                             <a href="{{ route('productDetails') }}" class="product-title">Cartier Sunglass</a>
-                                            <p class="product-price">$21.00</p>
+                                            <p class="product-price">Rp21.00</p>
                                         </div>
                                     </div>
                                 </div>
@@ -884,7 +884,7 @@
                                                 <span>(10)</span>
                                             </div>
                                             <a href="{{ route('productDetails') }}" class="product-title">Polycarbonate Sunglass</a>
-                                            <p class="product-price">$21.00</p>
+                                            <p class="product-price">Rp21.00</p>
                                         </div>
                                     </div>
                                 </div>
@@ -903,7 +903,7 @@
                                             </div>
                                             <div class="bottom-content text-center">
                                                 <h4 class="product-name"> Barbari Stylish Sunglass</h4>
-                                                <p class="price">$35.00</p>
+                                                <p class="price">Rp35.00</p>
                                             </div>
                                         </div>
                                     </div>
@@ -915,7 +915,7 @@
                                             </div>
                                             <div class="bottom-content text-center">
                                                 <h4 class="product-name"> Dark Stylish Sunglass</h4>
-                                                <p class="price">$35.00</p>
+                                                <p class="price">Rp35.00</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1147,7 +1147,7 @@
                             </div>
                         </div>
                         <h2 class="product-title">Wide Cotton Tunic Dress <span class="stock">In Stock</span></h2>
-                        <span class="product-price"><span class="old-price">$9.35</span> $7.25</span>
+                        <span class="product-price"><span class="old-price">Rp9.35</span> $7.25</span>
                         <p>
                             Priyoshop has brought to you the Hijab 3 Pieces Combo Pack PS23. It is a
                             completely modern design and you feel comfortable to put on this hijab.

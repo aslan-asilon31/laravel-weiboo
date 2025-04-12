@@ -96,7 +96,7 @@
                                 <div class="category-title-area">
                                     <span class="category-title">Preschool Flex Runner × 1</span>
                                 </div>
-                                <div class="price">$69.00</div>
+                                <div class="price">Rp69.00</div>
                             </div>
                         </div>
                         <div class="category-item">
@@ -105,7 +105,7 @@
                                     <span class="category-title">Hiking Boots × 1
                                     </span>
                                 </div>
-                                <div class="price">$220.00</div>
+                                <div class="price">Rp220.00</div>
                             </div>
                         </div>
                         <div class="category-item">
@@ -113,12 +113,12 @@
                                 <div class="category-title-area">
                                     <span class="category-title">Tiktok Tshirt × 1</span>
                                 </div>
-                                <div class="price">$75.00</div>
+                                <div class="price">Rp75.00</div>
                             </div>
                         </div>
                         <div class="action-middle">
                             <span class="subtotal">Subtotal</span>
-                            <span class="total-price">$364.00</span>
+                            <span class="total-price">Rp364.00</span>
                         </div>
                         <div class="shipping-options checkout-options">
                             <span class="shipping">Shipping</span>
@@ -135,7 +135,7 @@
                         </div>
                         <div class="action-bottom">
                             <span class="total">Total</span>
-                            <span class="total-price">$364.00</span>
+                            <span class="total-price">Rp364.00</span>
                         </div>
                     </div>
                     <div class="action-item m-0">

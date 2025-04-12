@@ -7,7 +7,7 @@
     $subTitle = 'Home';
     $subTitle2 = 'Shop Five Column';
     $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
-    
+
 
 @endphp
 
@@ -52,7 +52,7 @@
                                             <div class="bottom-content">
                                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                                 <div class="action-wrap">
-                                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                                     <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                         Cart</a>
                                                 </div>
@@ -94,7 +94,7 @@
                                                 <a href="{{ route('productDetails') }}" class="product-name">Seamless Sports Bra Smokey Grey
                                                     Marl</a>
                                                 <div class="action-wrap">
-                                                    <span class="product-price">$31.00</span>
+                                                    <span class="product-price">Rp31.00</span>
                                                     <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                         Cart</a>
                                                 </div>
@@ -143,7 +143,7 @@
                                             <div class="bottom-content">
                                                 <a href="{{ route('productDetails') }}" class="product-name">Camo Seamless Racer Back Sports</a>
                                                 <div class="action-wrap">
-                                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                                     <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                         Cart</a>
                                                 </div>
@@ -173,7 +173,7 @@
                                                 <a href="{{ route('productDetails') }}" class="product-name">Marl Seamless Long Sleeve Crop
                                                     Top</a>
                                                 <div class="action-wrap">
-                                                    <span class="product-price">$31.00</span>
+                                                    <span class="product-price">Rp31.00</span>
                                                     <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                         Cart</a>
                                                 </div>
@@ -198,7 +198,7 @@
                                             <div class="bottom-content">
                                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                                 <div class="action-wrap">
-                                                    <span class="product-price">$31.00</span>
+                                                    <span class="product-price">Rp31.00</span>
                                                     <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                         Cart</a>
                                                 </div>
@@ -224,7 +224,7 @@
                                                 <a href="{{ route('productDetails') }}" class="product-name">Seamless Sports Bra Smokey Grey
                                                     Mar</a>
                                                 <div class="action-wrap">
-                                                    <span class="product-price">$31.00</span>
+                                                    <span class="product-price">Rp31.00</span>
                                                     <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                         Cart</a>
                                                 </div>
@@ -250,7 +250,7 @@
                                                 <a href="{{ route('productDetails') }}" class="product-name">Vital Seamless 2.0 Vest Yellow
                                                     Marl</a>
                                                 <div class="action-wrap">
-                                                    <span class="product-price">$31.00</span>
+                                                    <span class="product-price">Rp31.00</span>
                                                     <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                         Cart</a>
                                                 </div>
@@ -275,7 +275,7 @@
                                             <div class="bottom-content">
                                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Ombre Seamless Leggings</a>
                                                 <div class="action-wrap">
-                                                    <span class="product-price">$31.00</span>
+                                                    <span class="product-price">Rp31.00</span>
                                                     <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                         Cart</a>
                                                 </div>
@@ -313,7 +313,7 @@
                                                 <a href="{{ route('productDetails') }}" class="product-name">WTFlex Seamless Asymmetric
                                                     Strappy</a>
                                                 <div class="action-wrap">
-                                                    <span class="product-price">$31.00</span>
+                                                    <span class="product-price">Rp31.00</span>
                                                     <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                         Cart</a>
                                                 </div>
@@ -362,7 +362,7 @@
                                             <div class="bottom-content">
                                                 <a href="{{ route('productDetails') }}" class="product-name">Asymmetric Strappy Sports Bra</a>
                                                 <div class="action-wrap">
-                                                    <span class="product-price">$31.00</span>
+                                                    <span class="product-price">Rp31.00</span>
                                                     <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                         Cart</a>
                                                 </div>
@@ -444,7 +444,7 @@
                             </div>
                         </div>
                         <h2 class="product-title">Wide Cotton Tunic Dress <span class="stock">In Stock</span></h2>
-                        <span class="product-price"><span class="old-price">$9.35</span> $7.25</span>
+                        <span class="product-price"><span class="old-price">Rp9.35</span> $7.25</span>
                         <p>
                             Priyoshop has brought to you the Hijab 3 Pieces Combo Pack PS23. It is a
                             completely modern design and you feel comfortable to put on this hijab.

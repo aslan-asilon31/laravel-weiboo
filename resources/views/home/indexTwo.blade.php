@@ -250,7 +250,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">3 ×</span>
-                                <span class="product-price">$198.00</span>
+                                <span class="product-price">Rp198.00</span>
                             </div>
                         </div>
                     </div>
@@ -277,7 +277,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">2 ×</span>
-                                <span class="product-price">$88.00</span>
+                                <span class="product-price">Rp88.00</span>
                             </div>
                         </div>
                     </div>
@@ -304,7 +304,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">1 ×</span>
-                                <span class="product-price">$289.00</span>
+                                <span class="product-price">Rp289.00</span>
                             </div>
                         </div>
                     </div>
@@ -322,9 +322,9 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                 </div>
             </div>
             <div class="cart-bottom-area">
-                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">$199.00</span> MORE
+                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">Rp199.00</span> MORE
                     FOR FREE SHIPPING</span>
-                <span class="total-price">TOTAL: <span class="price">$556</span></span>
+                <span class="total-price">TOTAL: <span class="price">Rp556</span></span>
                 <a href="{{ route('checkOut') }}" class="checkout-btn cart-btn">PROCEED TO CHECKOUT</a>
                 <a href="{{ route('cart') }}" class="view-btn cart-btn">VIEW CART</a>
             </div>
@@ -592,7 +592,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                             </div>
                                             <a href="{{ route('productDetails') }}" class="product-name">Maidenform Bra</a>
                                             <div class="action-wrap">
-                                                <span class="price">$31.00</span>
+                                                <span class="price">Rp31.00</span>
                                             </div>
                                         </div>
                                         <div class="quick-action-button">
@@ -721,7 +721,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                     </div>
                                     <a href="{{ route('productDetails') }}" class="product-name">Girl's Sport Bra</a>
                                     <div class="action-wrap">
-                                        <span class="price">$31.00</span>
+                                        <span class="price">Rp31.00</span>
                                     </div>
                                 </div>
                                 <div class="quick-action-button">
@@ -757,7 +757,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                     </div>
                                     <a href="{{ route('productDetails') }}" class="product-name">Champion Bra</a>
                                     <div class="action-wrap">
-                                        <span class="price">$31.00</span>
+                                        <span class="price">Rp31.00</span>
                                     </div>
                                 </div>
                                 <div class="quick-action-button">
@@ -811,7 +811,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                     </div>
                                     <a href="{{ route('productDetails') }}" class="product-name">Maidenform Bra</a>
                                     <div class="action-wrap">
-                                        <span class="price">$31.00</span>
+                                        <span class="price">Rp31.00</span>
                                     </div>
                                 </div>
                                 <div class="quick-action-button">
@@ -850,7 +850,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                     </div>
                                     <a href="{{ route('productDetails') }}" class="product-name">Hanes Women's Bra</a>
                                     <div class="action-wrap">
-                                        <span class="price">$31.00</span>
+                                        <span class="price">Rp31.00</span>
                                     </div>
                                 </div>
                                 <div class="quick-action-button">
@@ -893,7 +893,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                     </div>
                                     <a href="{{ route('productDetails') }}" class="product-name">Girl's Sport Bra</a>
                                     <div class="action-wrap">
-                                        <span class="price">$31.00</span>
+                                        <span class="price">Rp31.00</span>
                                     </div>
                                 </div>
                                 <div class="quick-action-button">
@@ -952,7 +952,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                     </div>
                                     <a href="{{ route('productDetails') }}" class="product-name">Maidenform Bra</a>
                                     <div class="action-wrap">
-                                        <span class="price">$31.00</span>
+                                        <span class="price">Rp31.00</span>
                                     </div>
                                 </div>
                                 <div class="quick-action-button">
@@ -1005,7 +1005,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                     </div>
                                     <a href="{{ route('productDetails') }}" class="product-name">Maidenform Bra</a>
                                     <div class="action-wrap">
-                                        <span class="price">$31.00</span>
+                                        <span class="price">Rp31.00</span>
                                     </div>
                                 </div>
                                 <div class="quick-action-button">
@@ -1044,7 +1044,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                     </div>
                                     <a href="{{ route('productDetails') }}" class="product-name">Hanes Women's Pant</a>
                                     <div class="action-wrap">
-                                        <span class="price">$31.00</span>
+                                        <span class="price">Rp31.00</span>
                                     </div>
                                 </div>
                                 <div class="quick-action-button">
@@ -1176,7 +1176,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                         <div class="product-content">
                             <a href="{{ route('productDetails') }}" class="detail">Mans Casual Shirt</a>
                             <div class="product-btn">
-                                <p class="product-price">$180.00 <span class="old-price">$290.00</span></p>
+                                <p class="product-price">Rp180.00 <span class="old-price">Rp290.00</span></p>
                                 <a href="#" class="cart-btn">Add to Cart</a>
                             </div>
                         </div>
@@ -1413,7 +1413,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             </div>
                         </div>
                         <h2 class="product-title">Wide Cotton Tunic Dress <span class="stock">In Stock</span></h2>
-                        <span class="product-price"><span class="old-price">$9.35</span> $7.25</span>
+                        <span class="product-price"><span class="old-price">Rp9.35</span> $7.25</span>
                         <p>
                             Priyoshop has brought to you the Hijab 3 Pieces Combo Pack PS23. It is a
                             completely modern design and you feel comfortable to put on this hijab.

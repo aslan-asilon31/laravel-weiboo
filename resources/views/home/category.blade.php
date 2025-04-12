@@ -42,7 +42,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -81,7 +81,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -132,7 +132,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -149,7 +149,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -166,7 +166,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -183,7 +183,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -200,7 +200,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -217,7 +217,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -234,7 +234,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -251,7 +251,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -268,7 +268,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -285,7 +285,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -302,7 +302,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -319,7 +319,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -336,7 +336,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -353,7 +353,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -370,7 +370,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -387,7 +387,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -404,7 +404,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -421,7 +421,7 @@
                                         <span class="product-category">Hand Craft</span>
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$31.00</span>
+                                            <span class="product-price">Rp31.00</span>
                                             <a href="cart.php" class="addto-cart"><i class="fal fa-shopping-cart"></i>
                                                 Add To
                                                 Cart</a>
@@ -515,12 +515,12 @@
                                 <div class="range-label-area">
                                     <div class="min-price d-flex">
                                         <span class="range-lbl">Min:</span>
-                                        <span class="currency-symbol">$</span>
+                                        <span class="currency-symbol">Rp</span>
                                         <div class="leftLabel price-range-label"></div>
                                     </div>
                                     <div class="min-price d-flex">
                                         <span class="range-lbl">Max:</span>
-                                        <span class="currency-symbol">$</span>
+                                        <span class="currency-symbol">Rp</span>
                                         <div class="rightLabel price-range-label"></div>
                                     </div>
                                 </div>

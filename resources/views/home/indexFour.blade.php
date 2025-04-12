@@ -13,7 +13,7 @@ $footer='flase';
             <div class="container">
                 <div class="header-top-inner">
                     <h3 class="welcome-text"><i class="rt-truck"></i> Free shipping for all orders of <span
-                            class="value">150$</span></h3>
+                            class="value">150Rp</span></h3>
                     <div class="topbar-action">
                         <a href="#" class="action-item mr--40"><i class="rt-store"></i> Store Location<span
                                 class="separator"></span></a>
@@ -259,7 +259,7 @@ $footer='flase';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">3 ×</span>
-                                <span class="product-price">$198.00</span>
+                                <span class="product-price">Rp198.00</span>
                             </div>
                         </div>
                     </div>
@@ -286,7 +286,7 @@ $footer='flase';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">2 ×</span>
-                                <span class="product-price">$88.00</span>
+                                <span class="product-price">Rp88.00</span>
                             </div>
                         </div>
                     </div>
@@ -313,7 +313,7 @@ $footer='flase';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">1 ×</span>
-                                <span class="product-price">$289.00</span>
+                                <span class="product-price">Rp289.00</span>
                             </div>
                         </div>
                     </div>
@@ -331,9 +331,9 @@ $footer='flase';
                 </div>
             </div>
             <div class="cart-bottom-area">
-                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">$199.00</span> MORE
+                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">Rp199.00</span> MORE
                     FOR FREE SHIPPING</span>
-                <span class="total-price">TOTAL: <span class="price">$556</span></span>
+                <span class="total-price">TOTAL: <span class="price">Rp556</span></span>
                 <a href="{{ route('checkOut') }}" class="checkout-btn cart-btn">PROCEED TO CHECKOUT</a>
                 <a href="{{ route('cart') }}" class="view-btn cart-btn">VIEW CART</a>
             </div>
@@ -657,7 +657,7 @@ $footer='flase';
                                 <span class="product-catagory">Hand Craft</span>
                                 <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -696,7 +696,7 @@ $footer='flase';
                                 <span class="product-catagory">Hand Craft</span>
                                 <a href="{{ route('productDetails') }}" class="product-name">Wooden Handicraft</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -751,7 +751,7 @@ $footer='flase';
                                 <span class="product-catagory">Hand Craft</span>
                                 <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -772,7 +772,7 @@ $footer='flase';
                                 <span class="product-catagory">Hand Craft</span>
                                 <a href="{{ route('productDetails') }}" class="product-name">Modern Handicraft</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -792,7 +792,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Modern Glasses Mug</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -816,7 +816,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -837,7 +837,7 @@ $footer='flase';
                                 <span class="product-catagory">Hand Craft</span>
                                 <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -857,7 +857,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -882,7 +882,7 @@ $footer='flase';
                                 <span class="product-catagory">Hand Craft</span>
                                 <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -903,7 +903,7 @@ $footer='flase';
                                 <span class="product-catagory">Hand Craft</span>
                                 <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -967,7 +967,7 @@ $footer='flase';
                                 <div class="bottom-content">
                                     <a href="{{ route('productDetails') }}" class="product-name">Painting Handicraft</a>
                                     <div class="action-wrap">
-                                        <span class="product-price">$31.00</span>
+                                        <span class="product-price">Rp31.00</span>
                                     </div>
                                 </div>
                             </div>
@@ -978,7 +978,7 @@ $footer='flase';
                                 <div class="bottom-content">
                                     <a href="{{ route('productDetails') }}" class="product-name">Wooden Handicraft</a>
                                     <div class="action-wrap">
-                                        <span class="product-price">$31.00</span>
+                                        <span class="product-price">Rp31.00</span>
                                     </div>
                                 </div>
                             </div>
@@ -989,7 +989,7 @@ $footer='flase';
                                 <div class="bottom-content">
                                     <a href="{{ route('productDetails') }}" class="product-name">Balli Handicraft</a>
                                     <div class="action-wrap">
-                                        <span class="product-price">$31.00</span>
+                                        <span class="product-price">Rp31.00</span>
                                     </div>
                                 </div>
                             </div>
@@ -1000,7 +1000,7 @@ $footer='flase';
                                 <div class="bottom-content">
                                     <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                     <div class="action-wrap">
-                                        <span class="product-price">$31.00</span>
+                                        <span class="product-price">Rp31.00</span>
                                     </div>
                                 </div>
                             </div>
@@ -1011,7 +1011,7 @@ $footer='flase';
                                 <div class="bottom-content">
                                     <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                     <div class="action-wrap">
-                                        <span class="product-price">$31.00</span>
+                                        <span class="product-price">Rp31.00</span>
                                     </div>
                                 </div>
                             </div>
@@ -1022,7 +1022,7 @@ $footer='flase';
                                 <div class="bottom-content">
                                     <a href="{{ route('productDetails') }}" class="product-name">Classic Handicraft</a>
                                     <div class="action-wrap">
-                                        <span class="product-price">$31.00</span>
+                                        <span class="product-price">Rp31.00</span>
                                     </div>
                                 </div>
                             </div>
@@ -1164,7 +1164,7 @@ $footer='flase';
                             </div>
                         </div>
                         <h2 class="product-title">Wide Cotton Tunic Dress <span class="stock">In Stock</span></h2>
-                        <span class="product-price"><span class="old-price">$9.35</span> $7.25</span>
+                        <span class="product-price"><span class="old-price">Rp9.35</span> $7.25</span>
                         <p>
                             Priyoshop has brought to you the Hijab 3 Pieces Combo Pack PS23. It is a
                             completely modern design and you feel comfortable to put on this hijab.

@@ -261,7 +261,7 @@ $footer='flase';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">3 ×</span>
-                                <span class="product-price">$198.00</span>
+                                <span class="product-price">Rp198.00</span>
                             </div>
                         </div>
                     </div>
@@ -288,7 +288,7 @@ $footer='flase';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">2 ×</span>
-                                <span class="product-price">$88.00</span>
+                                <span class="product-price">Rp88.00</span>
                             </div>
                         </div>
                     </div>
@@ -315,7 +315,7 @@ $footer='flase';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">1 ×</span>
-                                <span class="product-price">$289.00</span>
+                                <span class="product-price">Rp289.00</span>
                             </div>
                         </div>
                     </div>
@@ -333,9 +333,9 @@ $footer='flase';
                 </div>
             </div>
             <div class="cart-bottom-area">
-                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">$199.00</span> MORE
+                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">Rp199.00</span> MORE
                     FOR FREE SHIPPING</span>
-                <span class="total-price">TOTAL: <span class="price">$556</span></span>
+                <span class="total-price">TOTAL: <span class="price">Rp556</span></span>
                 <a href="{{ route('checkOut') }}" class="checkout-btn cart-btn">PROCEED TO CHECKOUT</a>
                 <a href="{{ route('cart') }}" class="view-btn cart-btn">VIEW CART</a>
             </div>
@@ -517,7 +517,7 @@ $footer='flase';
                                             In Our Store</h1>
                                         <div class="banner-action">
                                             <p>From</p>
-                                            <span class="product-price">$29.00</span>
+                                            <span class="product-price">Rp29.00</span>
                                         </div>
                                     </div>
                                     <div class="banner-product-thumb"><img
@@ -689,7 +689,7 @@ $footer='flase';
                             <span class="product-type">Cookie</span>
                             <a href="{{ route('productDetails') }}" class="product-title">Sweet Onion Salsa</a>
                             <div class="product-bottom-content">
-                                <span class="product-price">$230,00</span>
+                                <span class="product-price">Rp230,00</span>
                                 <button class="wishlist"><i class="rt-heart"></i></button>
                             </div>
                             <div class="product-actions product-actions3">
@@ -724,7 +724,7 @@ $footer='flase';
                             <span class="product-type">Cookie</span>
                             <a href="{{ route('productDetails') }}" class="product-title">Chocolate Chips</a>
                             <div class="product-bottom-content">
-                                <span class="product-price">$230,00 <span class="old-price">$460,00</span></span>
+                                <span class="product-price">Rp230,00 <span class="old-price">Rp460,00</span></span>
                                 <button class="wishlist"><i class="rt-heart"></i></button>
                             </div>
                             <div class="product-features product-features3">
@@ -760,7 +760,7 @@ $footer='flase';
                             <span class="product-type">Cookie</span>
                             <a href="{{ route('productDetails') }}" class="product-title">Meatless Chicken Tender</a>
                             <div class="product-bottom-content">
-                                <span class="product-price">$230,00</span>
+                                <span class="product-price">Rp230,00</span>
                                 <button class="wishlist"><i class="rt-heart"></i></button>
                             </div>
                             <div class="product-actions product-actions3">
@@ -792,7 +792,7 @@ $footer='flase';
                             <span class="product-type">Cookie</span>
                             <a href="{{ route('productDetails') }}" class="product-title">Cherry Spoiling Water</a>
                             <div class="product-bottom-content">
-                                <span class="product-price">$230,00 <span class="old-price">$460,00</span></span>
+                                <span class="product-price">Rp230,00 <span class="old-price">Rp460,00</span></span>
                                 <button class="wishlist"><i class="rt-heart"></i></button>
                             </div>
                             <div class="product-features product-features3">
@@ -828,7 +828,7 @@ $footer='flase';
                             <span class="product-type">Cookie</span>
                             <a href="{{ route('productDetails') }}" class="product-title">Mixed Vegetables</a>
                             <div class="product-bottom-content">
-                                <span class="product-price">$230,00</span>
+                                <span class="product-price">Rp230,00</span>
                                 <button class="wishlist"><i class="rt-heart"></i></button>
                             </div>
                             <div class="product-actions product-actions3">
@@ -860,7 +860,7 @@ $footer='flase';
                             <span class="product-type">Cookie</span>
                             <a href="{{ route('productDetails') }}" class="product-title">Jerry Jam Bites</a>
                             <div class="product-bottom-content">
-                                <span class="product-price">$230,00 <span class="old-price">$460,00</span></span>
+                                <span class="product-price">Rp230,00 <span class="old-price">Rp460,00</span></span>
                                 <button class="wishlist"><i class="rt-heart"></i></button>
                             </div>
                             <div class="product-features product-features3">
@@ -896,7 +896,7 @@ $footer='flase';
                             <span class="product-type">Cookie</span>
                             <a href="{{ route('productDetails') }}" class="product-title">Organic Broccoli Cuts</a>
                             <div class="product-bottom-content">
-                                <span class="product-price">$230,00</span>
+                                <span class="product-price">Rp230,00</span>
                                 <button class="wishlist"><i class="rt-heart"></i></button>
                             </div>
                             <div class="product-actions product-actions3">
@@ -928,7 +928,7 @@ $footer='flase';
                             <span class="product-type">Cookie</span>
                             <a href="{{ route('productDetails') }}" class="product-title">Mango Chunks</a>
                             <div class="product-bottom-content">
-                                <span class="product-price">$230,00</span>
+                                <span class="product-price">Rp230,00</span>
                                 <button class="wishlist"><i class="rt-heart"></i></button>
                             </div>
                             <div class="product-actions product-actions3">
@@ -960,7 +960,7 @@ $footer='flase';
                             <span class="product-type">Cookie</span>
                             <a href="{{ route('productDetails') }}" class="product-title">Turkey Burgers</a>
                             <div class="product-bottom-content">
-                                <span class="product-price">$230,00 <span class="old-price">$460,00</span></span>
+                                <span class="product-price">Rp230,00 <span class="old-price">Rp460,00</span></span>
                                 <button class="wishlist"><i class="rt-heart"></i></button>
                             </div>
                             <div class="product-features product-features3">
@@ -996,7 +996,7 @@ $footer='flase';
                             <span class="product-type">Cookie</span>
                             <a href="{{ route('productDetails') }}" class="product-title">Rising Cust Pizza</a>
                             <div class="product-bottom-content">
-                                <span class="product-price">$230,00</span>
+                                <span class="product-price">Rp230,00</span>
                                 <button class="wishlist"><i class="rt-heart"></i></button>
                             </div>
                             <div class="product-actions product-actions3">
@@ -1056,7 +1056,7 @@ $footer='flase';
                             </div>
                             <a href="{{ route('productDetails') }}" class="product-title">Organic Broccoli Cuts <br>
                                 Android 10.0 OS</a>
-                            <span class="product-price">$129.99 <span class="old-price">$349.99</span></span>
+                            <span class="product-price">Rp129.99 <span class="old-price">Rp349.99</span></span>
                         </div>
                     </div>
                 </div>
@@ -1077,7 +1077,7 @@ $footer='flase';
                             </div>
                             <a href="{{ route('productDetails') }}" class="product-title">Turkey Burgers <br>
                                 Android 10.0 OS</a>
-                            <span class="product-price">$129.99 <span class="old-price">$349.99</span></span>
+                            <span class="product-price">Rp129.99 <span class="old-price">Rp349.99</span></span>
                         </div>
                     </div>
                 </div>
@@ -1091,7 +1091,7 @@ $footer='flase';
                                     <span class="product-type">Seafood</span>
                                     <a href="{{ route('productDetails') }}" class="product-title">Chicok Butter with Canola Oil
                                         400ML</a>
-                                    <span class="product-price">$230,00</span>
+                                    <span class="product-price">Rp230,00</span>
                                 </div>
                             </div>
                         </div>
@@ -1103,7 +1103,7 @@ $footer='flase';
                                     <span class="product-type">Seafood</span>
                                     <a href="{{ route('productDetails') }}" class="product-title">Chicok Butter with Canola Oil
                                         400ML</a>
-                                    <span class="product-price">$230,00</span>
+                                    <span class="product-price">Rp230,00</span>
                                 </div>
                             </div>
                         </div>
@@ -1458,7 +1458,7 @@ $footer='flase';
                             </div>
                         </div>
                         <h2 class="product-title">Wide Cotton Tunic Dress <span class="stock">In Stock</span></h2>
-                        <span class="product-price"><span class="old-price">$9.35</span> $7.25</span>
+                        <span class="product-price"><span class="old-price">Rp9.35</span> $7.25</span>
                         <p>
                             Priyoshop has brought to you the Hijab 3 Pieces Combo Pack PS23. It is a
                             completely modern design and you feel comfortable to put on this hijab.

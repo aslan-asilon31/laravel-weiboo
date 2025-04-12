@@ -14,7 +14,7 @@
             <div class="container header-container">
                 <div class="header-top-inner">
                     <h3 class="welcome-text"><i class="rt-truck"></i> Free shipping for all orders of <span
-                            class="value">150$</span></h3>
+                            class="value">150Rp</span></h3>
                     <div class="topbar-action">
                         <a href="#" class="action-item mr--40"><i class="rt-store"></i> Store Location<span
                                 class="separator"></span></a>
@@ -255,7 +255,7 @@
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">3 ×</span>
-                                <span class="product-price">$198.00</span>
+                                <span class="product-price">Rp198.00</span>
                             </div>
                         </div>
                     </div>
@@ -282,7 +282,7 @@
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">2 ×</span>
-                                <span class="product-price">$88.00</span>
+                                <span class="product-price">Rp88.00</span>
                             </div>
                         </div>
                     </div>
@@ -309,7 +309,7 @@
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">1 ×</span>
-                                <span class="product-price">$289.00</span>
+                                <span class="product-price">Rp289.00</span>
                             </div>
                         </div>
                     </div>
@@ -327,9 +327,9 @@
                 </div>
             </div>
             <div class="cart-bottom-area">
-                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">$199.00</span> MORE
+                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">Rp199.00</span> MORE
                     FOR FREE SHIPPING</span>
-                <span class="total-price">TOTAL: <span class="price">$556</span></span>
+                <span class="total-price">TOTAL: <span class="price">Rp556</span></span>
                 <a href="{{ route('checkOut') }}" class="checkout-btn cart-btn">PROCEED TO CHECKOUT</a>
                 <a href="{{ route('cart') }}" class="view-btn cart-btn">VIEW CART</a>
             </div>
@@ -647,7 +647,7 @@
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Online Action Game</a>
                                 <div class="action-wrap">
-                                    <span class="price">$39.00</span>
+                                    <span class="price">Rp39.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -671,7 +671,7 @@
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Life Of Gun</a>
                                 <div class="action-wrap">
-                                    <span class="price">$220.00</span>
+                                    <span class="price">Rp220.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -698,7 +698,7 @@
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Speed Racing Game</a>
                                 <div class="action-wrap">
-                                    <span class="price">$220.00</span>
+                                    <span class="price">Rp220.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -725,7 +725,7 @@
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Action With Jailer</a>
                                 <div class="action-wrap">
-                                    <span class="price">$250.00</span>
+                                    <span class="price">Rp250.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -749,7 +749,7 @@
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Legends Of Runeterra</a>
                                 <div class="action-wrap">
-                                    <span class="price">$100.00</span>
+                                    <span class="price">Rp100.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -773,7 +773,7 @@
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Genchin Impact</a>
                                 <div class="action-wrap">
-                                    <span class="price">$220.00</span>
+                                    <span class="price">Rp220.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -797,7 +797,7 @@
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Royale Ghost Story</a>
                                 <div class="action-wrap">
-                                    <span class="price">$220.00</span>
+                                    <span class="price">Rp220.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -821,7 +821,7 @@
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Call Of Duty</a>
                                 <div class="action-wrap">
-                                    <span class="price">$220.00</span>
+                                    <span class="price">Rp220.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -1074,7 +1074,7 @@
                             </div>
                         </div>
                         <h2 class="product-title">Wide Cotton Tunic Dress <span class="stock">In Stock</span></h2>
-                        <span class="product-price"><span class="old-price">$9.35</span> $7.25</span>
+                        <span class="product-price"><span class="old-price">Rp9.35</span> $7.25</span>
                         <p>
                             Priyoshop has brought to you the Hijab 3 Pieces Combo Pack PS23. It is a
                             completely modern design and you feel comfortable to put on this hijab.

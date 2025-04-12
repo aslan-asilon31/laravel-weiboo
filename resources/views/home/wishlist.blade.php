@@ -30,7 +30,7 @@
                             <a href="{{ route('productDetails') }}" class="pretitle">Travel Large Trifold Wallet</a>
                         </td>
                         </td>
-                        <td><span class="product-price">$99.00</span></td>
+                        <td><span class="product-price">Rp99.00</span></td>
                         <td class="stock">In Stock</td>
                         </td>
                         <td class="last-td"><button class="cart-btn"><i class="rt-basket-shopping"></i> Add To
@@ -42,7 +42,7 @@
                                     src="{{ asset('assets/images/products/inner/cart/2.jpg') }}" alt=""></a>
                             <a href="{{ route('productDetails') }}" class="pretitle">Travel Large Trifold Wallet</a>
                         </td>
-                        <td><span class="product-price">$99.00</span></td>
+                        <td><span class="product-price">Rp99.00</span></td>
                         <td class="stock">In Stock</td>
                         <td class="last-td"><button class="cart-btn"><i class="rt-basket-shopping"></i> Add To
                                 Cart</button></td>
@@ -53,7 +53,7 @@
                                     src="{{ asset('assets/images/products/inner/cart/3.jpg') }}" alt=""></a>
                             <a href="{{ route('productDetails') }}" class="pretitle">Travel Large Trifold Wallet</a>
                         </td>
-                        <td><span class="product-price">$99.00</span></td>
+                        <td><span class="product-price">Rp99.00</span></td>
                         <td class="stock1">Out Of Stock</td>
                         <td class="last-td"><button class="cart-btn1"><i class="rt-basket-shopping"></i> Add to
                                 Cart</button></td>
@@ -64,7 +64,7 @@
                                     src="{{ asset('assets/images/products/inner/cart/4.jpg') }}" alt=""></a>
                             <a href="{{ route('productDetails') }}" class="pretitle">Travel Large Trifold Wallet</a>
                         </td>
-                        <td><span class="product-price">$99.00</span></td>
+                        <td><span class="product-price">Rp99.00</span></td>
                         <td class="stock">In Stock</td>
                         <td class="last-td"><button class="cart-btn"><i class="rt-basket-shopping"></i> Add To
                                 Cart</button></td>

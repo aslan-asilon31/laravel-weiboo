@@ -41,7 +41,7 @@
                                     <div class="bottom-content">
                                         <a href="{{ route('productDetails') }}" class="product-name">Men’s Canvas</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$310.00</span>
+                                            <span class="product-price">Rp310.00</span>
                                             <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                 Cart</a>
                                         </div>
@@ -79,7 +79,7 @@
                                     <div class="bottom-content">
                                         <a href="{{ route('productDetails') }}" class="product-name">Woman’s Blouse</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$220.00</span>
+                                            <span class="product-price">Rp220.00</span>
                                             <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                 Cart</a>
                                         </div>
@@ -133,7 +133,7 @@
                                     <div class="bottom-content">
                                         <a href="{{ route('productDetails') }}" class="product-name">Girl's Tops</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$250.00</span>
+                                            <span class="product-price">Rp250.00</span>
                                             <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                 Cart</a>
                                         </div>
@@ -153,7 +153,7 @@
                                     <div class="bottom-content">
                                         <a href="{{ route('productDetails') }}" class="product-name">Legacy Leather Sneaker</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$270.00</span>
+                                            <span class="product-price">Rp270.00</span>
                                             <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                 Cart</a>
                                         </div>
@@ -173,7 +173,7 @@
                                     <div class="bottom-content">
                                         <a href="{{ route('productDetails') }}" class="product-name">Chloe by Karl Lagerfeld</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$310.00</span>
+                                            <span class="product-price">Rp310.00</span>
                                             <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                 Cart</a>
                                         </div>
@@ -197,7 +197,7 @@
                                     <div class="bottom-content">
                                         <a href="{{ route('productDetails') }}" class="product-name">Vintage Grey Wool</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$270.00</span>
+                                            <span class="product-price">Rp270.00</span>
                                             <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                 Cart</a>
                                         </div>
@@ -217,7 +217,7 @@
                                     <div class="bottom-content">
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$210.00</span>
+                                            <span class="product-price">Rp210.00</span>
                                             <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                 Cart</a>
                                         </div>
@@ -237,7 +237,7 @@
                                     <div class="bottom-content">
                                         <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$250.00</span>
+                                            <span class="product-price">Rp250.00</span>
                                             <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                 Cart</a>
                                         </div>
@@ -261,7 +261,7 @@
                                     <div class="bottom-content">
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$230.00</span>
+                                            <span class="product-price">Rp230.00</span>
                                             <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                 Cart</a>
                                         </div>
@@ -281,7 +281,7 @@
                                     <div class="bottom-content">
                                         <a href="{{ route('productDetails') }}" class="product-name">Minimalist Beard Mug</a>
                                         <div class="action-wrap">
-                                            <span class="product-price">$225.00</span>
+                                            <span class="product-price">Rp225.00</span>
                                             <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                                 Cart</a>
                                         </div>
@@ -356,7 +356,7 @@
                             </div>
                         </div>
                         <h2 class="product-title">Wide Cotton Tunic Dress <span class="stock">In Stock</span></h2>
-                        <span class="product-price"><span class="old-price">$9.35</span> $7.25</span>
+                        <span class="product-price"><span class="old-price">Rp9.35</span> $7.25</span>
                         <p>
                             Priyoshop has brought to you the Hijab 3 Pieces Combo Pack PS23. It is a
                             completely modern design and you feel comfortable to put on this hijab.

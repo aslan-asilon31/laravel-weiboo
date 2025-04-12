@@ -224,7 +224,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">3 ×</span>
-                                <span class="product-price">$198.00</span>
+                                <span class="product-price">Rp198.00</span>
                             </div>
                         </div>
                     </div>
@@ -251,7 +251,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">2 ×</span>
-                                <span class="product-price">$88.00</span>
+                                <span class="product-price">Rp88.00</span>
                             </div>
                         </div>
                     </div>
@@ -278,7 +278,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">1 ×</span>
-                                <span class="product-price">$289.00</span>
+                                <span class="product-price">Rp289.00</span>
                             </div>
                         </div>
                     </div>
@@ -296,9 +296,9 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                 </div>
             </div>
             <div class="cart-bottom-area">
-                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">$199.00</span> MORE
+                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">Rp199.00</span> MORE
                     FOR FREE SHIPPING</span>
-                <span class="total-price">TOTAL: <span class="price">$556</span></span>
+                <span class="total-price">TOTAL: <span class="price">Rp556</span></span>
                 <a href="{{ route('checkOut') }}" class="checkout-btn cart-btn">PROCEED TO CHECKOUT</a>
                 <a href="{{ route('cart') }}" class="view-btn cart-btn">VIEW CART</a>
             </div>
@@ -608,7 +608,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Dining Chair</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -649,7 +649,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Bauhaus chair</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -698,7 +698,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Aeron Dining Chair</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -726,7 +726,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Italian Leather Band Watch</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -751,7 +751,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Trending Accent Chair</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -776,7 +776,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Wooden Stylish Chair</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -801,7 +801,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Wooden Stylish Chair</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -826,7 +826,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Office Chair</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -863,7 +863,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Scandinavian Oak Chair</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -912,7 +912,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Stylish Office chair</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -944,7 +944,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -972,7 +972,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1000,7 +1000,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1028,7 +1028,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1056,7 +1056,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1084,7 +1084,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1112,7 +1112,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1140,7 +1140,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1168,7 +1168,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1196,7 +1196,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1228,7 +1228,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1256,7 +1256,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1284,7 +1284,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1312,7 +1312,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1340,7 +1340,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1368,7 +1368,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1396,7 +1396,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1424,7 +1424,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1452,7 +1452,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1480,7 +1480,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1512,7 +1512,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00 <span class="old-price">$43.00</span></span>
+                                    <span class="product-price">Rp31.00 <span class="old-price">Rp43.00</span></span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1542,7 +1542,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1570,7 +1570,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1599,7 +1599,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                 <a href="{{ route('productDetails') }}" class="product-name">Marl Seamless Long Sleeve Crop
                                     Top</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1624,7 +1624,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1650,7 +1650,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                 <a href="{{ route('productDetails') }}" class="product-name">Seamless Sports Bra Smokey Grey
                                     Mar</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1676,7 +1676,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                                 <a href="{{ route('productDetails') }}" class="product-name">Vital Seamless 2.0 Vest Yellow
                                     Marl</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1701,7 +1701,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -1729,7 +1729,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Adapt Camo Seamless Shorts</a>
                                 <div class="action-wrap">
-                                    <span class="product-price">$31.00</span>
+                                    <span class="product-price">Rp31.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add To
                                         Cart</a>
                                 </div>
@@ -2003,7 +2003,7 @@ $script = '<script src="' . asset('assets/js/vendors/zoom.js') . '"></script>';
                             </div>
                         </div>
                         <h2 class="product-title">Wide Cotton Tunic Dress <span class="stock">In Stock</span></h2>
-                        <span class="product-price"><span class="old-price">$9.35</span> $7.25</span>
+                        <span class="product-price"><span class="old-price">Rp9.35</span> $7.25</span>
                         <p>
                             Priyoshop has brought to you the Hijab 3 Pieces Combo Pack PS23. It is a
                             completely modern design and you feel comfortable to put on this hijab.

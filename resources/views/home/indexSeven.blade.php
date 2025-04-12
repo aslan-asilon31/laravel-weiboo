@@ -251,7 +251,7 @@ $footer='flase';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">3 ×</span>
-                                <span class="product-price">$198.00</span>
+                                <span class="product-price">Rp198.00</span>
                             </div>
                         </div>
                     </div>
@@ -278,7 +278,7 @@ $footer='flase';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">2 ×</span>
-                                <span class="product-price">$88.00</span>
+                                <span class="product-price">Rp88.00</span>
                             </div>
                         </div>
                     </div>
@@ -305,7 +305,7 @@ $footer='flase';
                             </div>
                             <div class="item-wrapper">
                                 <span class="product-qnty">1 ×</span>
-                                <span class="product-price">$289.00</span>
+                                <span class="product-price">Rp289.00</span>
                             </div>
                         </div>
                     </div>
@@ -323,9 +323,9 @@ $footer='flase';
                 </div>
             </div>
             <div class="cart-bottom-area">
-                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">$199.00</span> MORE
+                <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">Rp199.00</span> MORE
                     FOR FREE SHIPPING</span>
-                <span class="total-price">TOTAL: <span class="price">$556</span></span>
+                <span class="total-price">TOTAL: <span class="price">Rp556</span></span>
                 <a href="{{ route('checkOut') }}" class="checkout-btn cart-btn">PROCEED TO CHECKOUT</a>
                 <a href="{{ route('cart') }}" class="view-btn cart-btn">VIEW CART</a>
             </div>
@@ -576,7 +576,7 @@ $footer='flase';
                                             </div>
                                             <a href="{{ route('productDetails') }}" class="product-name">Apex Men's Shoe</a>
                                             <div class="action-wrap">
-                                                <span class="price">$44.00 - $233.00</span>
+                                                <span class="price">Rp44.00 - $233.00</span>
                                             </div>
                                         </div>
                                         <div class="quick-action-button">
@@ -717,7 +717,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Lather Men's Canvas</a>
                                 <div class="action-wrap">
-                                    <span class="price">$39.00</span>
+                                    <span class="price">Rp39.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -758,7 +758,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Shot Men's Canvas</a>
                                 <div class="action-wrap">
-                                    <span class="price">$119.00</span>
+                                    <span class="price">Rp119.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -785,7 +785,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Lather Men's Shoe Bra</a>
                                 <div class="action-wrap">
-                                    <span class="price">$220.00</span>
+                                    <span class="price">Rp220.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -816,7 +816,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Women's Canvas</a>
                                 <div class="action-wrap">
-                                    <span class="price">$220.00</span>
+                                    <span class="price">Rp220.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -843,7 +843,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Legacy Lather Sneaker</a>
                                 <div class="action-wrap">
-                                    <span class="price">$250.00</span>
+                                    <span class="price">Rp250.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -884,7 +884,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Lather Men's Canvas</a>
                                 <div class="action-wrap">
-                                    <span class="price">$44.00 - $233.00</span>
+                                    <span class="price">Rp44.00 - $233.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -911,7 +911,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Lather Men's Lofer</a>
                                 <div class="action-wrap">
-                                    <span class="price">$100.00</span>
+                                    <span class="price">Rp100.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -938,7 +938,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Sprint Men's Canvas</a>
                                 <div class="action-wrap">
-                                    <span class="price">$220.00</span>
+                                    <span class="price">Rp220.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -1011,7 +1011,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Lather Men's Canvas</a>
                                 <div class="action-wrap">
-                                    <span class="price">$100.00</span>
+                                    <span class="price">Rp100.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -1038,7 +1038,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Lather Men's Canvas</a>
                                 <div class="action-wrap">
-                                    <span class="price">$39.00</span>
+                                    <span class="price">Rp39.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -1065,7 +1065,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Lather Men's Shoe Bra</a>
                                 <div class="action-wrap">
-                                    <span class="price">$119.00</span>
+                                    <span class="price">Rp119.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -1096,7 +1096,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Women's Canvas</a>
                                 <div class="action-wrap">
-                                    <span class="price">$44.00 - $233.00</span>
+                                    <span class="price">Rp44.00 - $233.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -1123,7 +1123,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Legacy Lather Sneaker</a>
                                 <div class="action-wrap">
-                                    <span class="price">$220.00</span>
+                                    <span class="price">Rp220.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -1164,7 +1164,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Lather Men's Canvas</a>
                                 <div class="action-wrap">
-                                    <span class="price">$150.00</span>
+                                    <span class="price">Rp150.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -1191,7 +1191,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Lather Men's Lofer</a>
                                 <div class="action-wrap">
-                                    <span class="price">$150.00</span>
+                                    <span class="price">Rp150.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -1218,7 +1218,7 @@ $footer='flase';
                             <div class="bottom-content">
                                 <a href="{{ route('productDetails') }}" class="product-name">Sprint Men's Canvas</a>
                                 <div class="action-wrap">
-                                    <span class="price">$220.00</span>
+                                    <span class="price">Rp220.00</span>
                                     <a href="{{ route('cart') }}" class="addto-cart"><i class="fal fa-shopping-cart"></i> Add to Cart</a>
                                 </div>
                             </div>
@@ -1454,7 +1454,7 @@ $footer='flase';
                             </div>
                         </div>
                         <h2 class="product-title">Wide Cotton Tunic Dress <span class="stock">In Stock</span></h2>
-                        <span class="product-price"><span class="old-price">$9.35</span> $7.25</span>
+                        <span class="product-price"><span class="old-price">Rp9.35</span> $7.25</span>
                         <p>
                             Priyoshop has brought to you the Hijab 3 Pieces Combo Pack PS23. It is a
                             completely modern design and you feel comfortable to put on this hijab.
